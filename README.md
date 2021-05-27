@@ -2,7 +2,6 @@
 ### Programmer
 
 ```rust
-fn main() {
 ```
 <!--
 - 👨‍💻 I’m currently programming on [Red Hat](https://redhat.com) for [Ansible](https://github.com/ansible) project. 
