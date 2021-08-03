@@ -1,5 +1,6 @@
 # Hi 👋, I'm Zuhair Hossain
-### Programmer
+### Undergrad Student at BRAC University, studying Computer Science and Engineering
+### WebMaster at IEEE BRAC University Student Branch
 
 ```rust
 ```
