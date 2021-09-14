@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75311&size=22&center=true&vCenter=true&width=440&height=45&lines=Undergrad+Student+at+BRAC+University+;WebMaster+at+IEEE+BRACU+SB"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=440&height=45&lines=Undergrad+Student+at+Brac+University;Web+Master%2C+IEEE+BRACU+SB;Competitive+Progremmer"></a>
 </p>
 
 ```rust
