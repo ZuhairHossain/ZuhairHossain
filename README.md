@@ -60,9 +60,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZuhairHossain" alt="ZuhairHossain" /> </p>
 
-<h2 align='left'>#Github Points: :octocat:🏆️</h2>
+<h2 align='left'>#Github Points: 🏆️</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ZuhairHossain&theme=onedark&margin-w=7&hide_border=true" alt="ZuhairHossain points"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ZuhairHossain&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="ZuhairHossain points"/>
 </p>
 
 ```rust
