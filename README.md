@@ -2,8 +2,9 @@
   Welcome to Zuhair Hossain's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-### Undergrad Student at BRAC University, studying Computer Science and Engineering
-### WebMaster at IEEE BRAC University Student Branch
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75311&size=22&width=440&height=45&lines=Undergrad+Student+at+BRAC+University;Studying+Computer+Science+and+Engineering;WebMaster+at+IEEE+BRAC+University+Student+Branch"></a>
+</p>
 
 ```rust
 ```
