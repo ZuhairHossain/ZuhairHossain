@@ -57,13 +57,13 @@
 </center>  
 
 ---
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZuhairHossain" alt="ZuhairHossain" /> </p>
 
 <h2 align='left'>#Github Points: 🏆️</h2>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true" alt="ZuhairHossain points"/>
 </p>
-
+--!>
 ```rust
 
