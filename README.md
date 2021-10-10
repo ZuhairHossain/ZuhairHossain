@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=440&height=45&lines=Undergrad+Student+at+Brac+University;Web+Master%2C+IEEE+BRACU+SB;Competitive+Programmer"></a>
 </p>
 
-```rust
-```
+
 <!--
 - 👨‍💻 I’m currently programming on [Red Hat](https://redhat.com) for [Ansible](https://github.com/ansible) project. 
 - 🦀 I’m looking to collaborate on [Rust](https://github.com/rust-lang) working groups & Rust related projects. 
