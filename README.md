@@ -32,8 +32,8 @@
 <p align="center">
 <img align="left" src="https://komarev.com/ghpvc/?username=your-github-ZuhairHossain&style=flat-square">
 <a href="https://www.facebook.com/zuhair.hossain/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ZuhairHossain" /></a>
-<a href="https://twitter.com/zuhairhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ZuhairHossain" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/syed-zuhair-hossain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ZuhairHossain" height="20" width="20" /></a>
+<a href="https://twitter.com/zuhairhossain" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ZuhairHossain"/></a>
+<a href="https://www.linkedin.com/in/syed-zuhair-hossain/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 <a href="https://dev.to/ZuhairHossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ZuhairHossain" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/ZuhairHossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ZuhairHossain" height="20" width="20" /></a>
