@@ -5,12 +5,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=440&height=45&lines=Undergrad+Student+at+Brac+University;Web+Master%2C+IEEE+BRACU+SB;Competitive+Programmer"></a>
 </p>
+
 <!--
 - 👨‍💻 I’m currently programming on [Red Hat](https://redhat.com) for [Ansible](https://github.com/ansible) project. 
 - 🦀 I’m looking to collaborate on [Rust](https://github.com/rust-lang) working groups & Rust related projects. 
 - ⚙️ I’m maintaining [Python Dynaconf](https://dynaconf.com) a library to manage app configurations for Python, Flask and Django. 
 - 🐦 Best way to reach me is on [twitter.com/rochaCbruno](https://twitter.com/rochaCbruno)
 ---
+
 <p>
 
 <a href="https://twitch.tv/codeshow"><img src="https://github.com/rochacbruno/rochacbruno/raw/master/img/CODE.png" align="left" width="100px"></a>
@@ -23,6 +25,7 @@
 
 </p>
 -->
+
 ---
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-github-ZuhairHossain&style=flat-square"></p>
 <p align="center">
@@ -34,11 +37,14 @@
 <a href="https://stackoverflow.com/ZuhairHossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ZuhairHossain" height="20" width="20" /></a>
 -->
 </p>
+
 ---
+
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=ZuhairHossain&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+
 ---
 <center>
   <table>
