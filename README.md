@@ -29,8 +29,9 @@
 -->
 ---
 
+<p align="center"><img align="left" src="https://komarev.com/ghpvc/?username=your-github-ZuhairHossain&style=flat-square"></p>
+
 <p align="center">
-<img align="left" src="https://komarev.com/ghpvc/?username=your-github-ZuhairHossain&style=flat-square">
 <a href="https://www.facebook.com/zuhair.hossain/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ZuhairHossain" /></a>
 <a href="https://twitter.com/zuhairhossain" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ZuhairHossain"/></a>
 <a href="https://www.linkedin.com/in/syed-zuhair-hossain/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
