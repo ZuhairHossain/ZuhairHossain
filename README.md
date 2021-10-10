@@ -30,6 +30,7 @@
 ---
 
 <p align="center">
+![](https://komarev.com/ghpvc/?username=your-github-ZuhairHossain&style=flat-square)
 <a href="https://www.facebook.com/zuhair.hossain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ZuhairHossain" height="20" width="20" /></a>
 <a href="https://twitter.com/zuhairhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ZuhairHossain" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/syed-zuhair-hossain/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ZuhairHossain" height="20" width="20" /></a>
