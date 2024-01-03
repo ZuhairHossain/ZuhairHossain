@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/zuhairhossain" target="blank"><img src="https://img.shields.io/twitter/follow/zuhairhossain?logo=twitter&style=for-the-badge" alt="zuhairhossain" /></a> </p>
 
-- 👯 I’m looking to collaborate on **devops and human computer interaction projects**
+- 👯 I’m looking to collaborate on **Devops and Human-Computer Interaction projects**
 
 - 📫 How to reach me **szhzuhair@gmail.com**
 
@@ -24,9 +24,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhairhossain&show_icons=true&locale=en&layout=compact&theme=transparent" alt="zuhairhossain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuhairhossain&show_icons=true&theme=transparent" alt="zuhairhossain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuhairhossain&show_icons=true&theme=transparent" alt="zuhairhossain" /></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairhossain&show_icons=true&theme=transparent" alt="zuhairhossain" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhairhossain&show_icons=true&theme=transparent" alt="zuhairhossain" /></p>
+<br><br><br>
 
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ZuhairHossain"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ZuhairHossain" /></a></p><br><br>
+<h3 align="right">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ZuhairHossain"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ZuhairHossain" /></a></p>
