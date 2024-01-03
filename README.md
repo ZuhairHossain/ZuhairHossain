@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ZuhairHossain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ZuhairHossain" /></a></p><br><br>
+  <p><a href="https://www.buymeacoffee.com/syedzuhairp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ZuhairHossain" /></a></p><br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhairhossain&show_icons=true&locale=en&layout=compact" alt="zuhairhossain" /></p>
